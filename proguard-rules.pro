@@ -1,0 +1,5 @@
+-keepattributes *Annotation*
+-keepclassmembers class com.taxivn.dispatch.data.model.** { *; }
+-keepclassmembers class * extends java.lang.Enum { *; }
+-dontwarn okhttp3.**
+-dontwarn retrofit2.**

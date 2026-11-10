@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="taxivn_teal_primary">#0F766E</color>
+    <color name="taxivn_teal_dark">#115E59</color>
+    <color name="taxivn_amber_accent">#F59E0B</color>
+    <color name="taxivn_slate_bg">#F8FAFC</color>
+</resources>

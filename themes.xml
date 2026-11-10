@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TaxiVN" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/taxivn_teal_primary</item>
+        <item name="android:navigationBarColor">@color/taxivn_slate_bg</item>
+    </style>
+
+    <style name="Theme.TaxiVN.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/taxivn_teal_primary</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_taxivn_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.TaxiVN</item>
+    </style>
+</resources>

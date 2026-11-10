@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaxiVN</string>
+    <string name="app_subtitle">Hệ Thống Điều Hành Taxi</string>
+    <string name="gps_channel_name">Định vị GPS Tài xế TaxiVN</string>
+    <string name="gps_notification_title">TaxiVN đang chia sẻ vị trí GPS</string>
+    <string name="gps_notification_text">Trạng thái trực tuyến — Sẵn sàng nhận cuốc xe từ tổng đài</string>
+</resources>
